@@ -48,7 +48,7 @@ The interface is built entirely for the **terminal**, using the **Rich** library
 Follow the steps below to run the project locally.
 
 ```bash
-git clone https://github.com/your-username/visual-sudoku-solver.git
+git clone https://github.com/your-username/visual-sudoku-solver.git](https://github.com/maaluuzete/visual-sudoku-solver.git
 cd visual-sudoku-solver
 python -m venv venv
 pip install -r requirements.txt
